@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bride: MyString
+  groom: MyString
+  tenant: one
+  weddingDate: 2021-05-26 23:23:09
+
+two:
+  bride: MyString
+  groom: MyString
+  tenant: two
+  weddingDate: 2021-05-26 23:23:09
